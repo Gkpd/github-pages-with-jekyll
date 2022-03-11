@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Hi, nice to meet you"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm Giorgia, Marketing Manager for ANZ & Singapore. Get in touch via Slack if you have any questions
